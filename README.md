@@ -26,10 +26,6 @@ O jogo permite que o jogador manipule as projeções utilizando as teclas do tec
 - **Seta para esquerda (`←`)**: Rotaciona o objeto no sentido anti-horário.
 - **Seta para direita (`→`)**: Rotaciona o objeto no sentido horário.
 
-### Funcionalidades futuras:
-
-- Controle mais detalhado da rotação em torno de diferentes eixos.
-- Adição de diferentes objetos tridimensionais para projeção.
 
 ## Instalação
 
